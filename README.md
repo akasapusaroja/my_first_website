@@ -29,7 +29,7 @@ http://127.0.0.1:5501/index.html
 
 Clone this repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/travel-website.git
+git clone   :  https://github.com/akasapusaroja/my_first_website.git
 
 
 Open the folder and launch the index.html file in your browser.
